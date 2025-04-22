@@ -1,1 +1,3 @@
 # leaflet-challenge
+
+This project visualizes global earthquake data using Leaflet.js and real-time GeoJSON feeds from the USGS. Earthquakes are plotted as circle markers sized by magnitude and colored by depth, with interactive popups and a legend to help users interpret the data. The goal is to provide an accessible and informative map that helps the public and researchers better understand recent seismic activity.
